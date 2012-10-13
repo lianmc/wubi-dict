@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WubiDict
+Name[zh_CN]=五笔字根查询
+Comment=Lookup Wubi Zigen
+Comment[zh_CN]=五笔字根查询
+Exec=wubi-dict
+Terminal=false
+Type=Application
+Icon=wubi-dict.png
+StartupNotify=true
+Categories=Utility;Dictionary;
